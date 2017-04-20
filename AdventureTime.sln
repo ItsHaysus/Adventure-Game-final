@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureTime", "AdventureTime.csproj", "{C518ADDC-19C1-2003-03F4-65E14B6849F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureTime.Editor", "AdventureTime.Editor.csproj", "{D46121E6-4B6C-2638-5D39-3BC7F9065413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C518ADDC-19C1-2003-03F4-65E14B6849F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C518ADDC-19C1-2003-03F4-65E14B6849F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C518ADDC-19C1-2003-03F4-65E14B6849F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C518ADDC-19C1-2003-03F4-65E14B6849F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46121E6-4B6C-2638-5D39-3BC7F9065413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46121E6-4B6C-2638-5D39-3BC7F9065413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46121E6-4B6C-2638-5D39-3BC7F9065413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46121E6-4B6C-2638-5D39-3BC7F9065413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
